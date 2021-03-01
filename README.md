@@ -6,4 +6,6 @@ Passionate for Physics, Education and Python. Interested in Computational Physic
 
 ### I’m currently working on 💻
 
-#### 🎓 Studying Physics at [IFUSP](http://portal.if.usp.br/ifusp/)
+ 🎓 Studying Physics at [IFUSP](http://portal.if.usp.br/ifusp/)
+
+:joystick: Developing [Tamacat](https://github.com/ghurone/tamacat), the best command line game in the world!
