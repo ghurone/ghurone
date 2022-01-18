@@ -41,9 +41,9 @@
 
 ## Where to find me 📬
 
-Send a e-mail to <a href="mailto:ghuronf@gmail.com">ghuronf@gmail.com</a>
+Send a e-mail to <a href="mailto:ghuronf@gmail.com" target="_blank">ghuronf@gmail.com</a>
 
 or find me in my socials
 
-<a href="https://twitter.com/ghurone">![Twitter](https://img.shields.io/badge/ghurone-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://steamcommunity.com/id/ghuron">![Steam](https://img.shields.io/badge/nekz-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
+<a href="https://twitter.com/ghurone" target="_blank">![Twitter](https://img.shields.io/badge/ghurone-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
+<a href="https://steamcommunity.com/id/ghuron" target="_blank">![Steam](https://img.shields.io/badge/nekz-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
