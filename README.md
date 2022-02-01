@@ -58,6 +58,7 @@ Send a e-mail to <a href="mailto:ghuronf@gmail.com" target="_blank">ghuronf@gmai
 
 or find me in my socials
 
+<a href="https://www.linkedin.com/in/ghuron" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://twitter.com/ghurone" target="_blank">![Twitter](https://img.shields.io/badge/ghurone-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://instagram.com/ghurone" target="_blank">![Instagram](https://img.shields.io/badge/ghurone-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 <a href="https://steamcommunity.com/id/ghuron" target="_blank">![Steam](https://img.shields.io/badge/nekz-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
