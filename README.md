@@ -12,7 +12,7 @@
 
 🎓 Studying Physics at [IFUSP](http://portal.if.usp.br/ifusp/)
  
-📚 Studying Data Science for Education
+📚 Studying Machine Learning for Education
  
 🕹️ Developing [Tamacat](https://github.com/ghurone/tamacat), the best command line game in the world!
 
