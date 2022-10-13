@@ -10,9 +10,9 @@
 
 ## I’m currently working on 💻
 
-🎓 Studying Physics at [IFUSP](http://portal.if.usp.br/ifusp/)
+🎓 Studying Physics at [IFUSP](http://portal.if.usp.br/ifusp/).
  
-📚 Studying Machine Learning for Education
+📚 Studying machine learning applied to education.
  
 🕹️ Developing [Tamacat](https://github.com/ghurone/tamacat), the best command line game in the world!
 
