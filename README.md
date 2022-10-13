@@ -6,7 +6,7 @@
 
 - Passionate for Physics, education and Python.
 
-- Interested in computational physics, interactive simulations for Physics and ICTs
+- Interested in machine learning, computational physics, interactive simulations and ICTs
 
 ## I’m currently working on 💻
 
