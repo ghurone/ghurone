@@ -10,7 +10,7 @@
 
 ## I’m currently working on 💻
 
-🎓 Studying Physics at [IFUSP](http://portal.if.usp.br/ifusp/).
+🎓 Undergraduate Physics Student at [IFUSP](http://portal.if.usp.br/ifusp/).
  
 📚 Studying Natural Language Processing applied to education.
 
