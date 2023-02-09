@@ -13,8 +13,6 @@
 🎓 Studying Physics at [IFUSP](http://portal.if.usp.br/ifusp/).
  
 📚 Studying Natural Language Processing applied to education.
- 
-🕹️ Developing [Tamacat](https://github.com/ghurone/tamacat), the best command line game in the world!
 
 ## I'm familiar with 🤓
 
