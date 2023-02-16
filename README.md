@@ -52,4 +52,6 @@ or find me in my socials
 <a href="https://instagram.com/ghurone" target="_blank">![Instagram](https://img.shields.io/badge/ghurone-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 <a href="https://steamcommunity.com/id/ghuron" target="_blank">![Steam](https://img.shields.io/badge/nekz-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
  
- ![](https://komarev.com/ghpvc/?username=ghurone&color=blueviolet)
+ <hr>
+ 
+ ![](https://komarev.com/ghpvc/?username=ghurone&color=blueviolet&style=for-the-badge	)
