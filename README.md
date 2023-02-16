@@ -1,12 +1,6 @@
  # Hi there, I'm Érick Ghuron 👋
 
-![](https://komarev.com/ghpvc/?username=ghurone&color=blueviolet)
-
-- Future Physics teacher :man_teacher:
-
-- Passionate for Physics, education and Python.
-
-- Interested in machine learning, computational physics, interactive simulations and ICTs
+I'm a future physics teacher who is not only passionate about education, but also interested in computing. My interests include machine learning, computational physics, interactive simulations and ICT.
 
 ## I’m currently working on 💻
 
@@ -56,3 +50,5 @@ or find me in my socials
 <a href="https://twitter.com/ghurone" target="_blank">![Twitter](https://img.shields.io/badge/ghurone-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 <a href="https://instagram.com/ghurone" target="_blank">![Instagram](https://img.shields.io/badge/ghurone-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 <a href="https://steamcommunity.com/id/ghuron" target="_blank">![Steam](https://img.shields.io/badge/nekz-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
+ 
+ ![](https://komarev.com/ghpvc/?username=ghurone&color=blueviolet)
