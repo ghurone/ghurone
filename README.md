@@ -4,7 +4,7 @@ I'm a physics teacher with a deep passion for education and a keen interest in c
 
 ## I’m currently working on 💻
 
-🎓 I'm a master's student in physics education at [IF-USP](https://portal.if.usp.br/piec/).
+🎓 I'm a master's student in physics education at [PIEC-USP](https://portal.if.usp.br/piec/).
 
 📚 Studying Natural Language Processing applied to education.
 
