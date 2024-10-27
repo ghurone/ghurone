@@ -1,5 +1,6 @@
 # Hi there, I'm Erick Ghuron 👋
 
+
 I'm a physics teacher with a deep passion for education and a keen interest in computing. My areas of interest include machine learning, computational physics, interactive simulations, and information and communication technology (ICT).
 
 ## I’m currently working on 💻
