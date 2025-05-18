@@ -1,24 +1,36 @@
-# Hi there, I'm Erick Ghuron 👋
+<table>
+<tr>
+<td width="70%">
 
+# 👨‍🏫 Erick Ghuron
 
-I'm a physics teacher with a deep passion for education and a keen interest in computing. My areas of interest include machine learning, computational physics, interactive simulations, and information and communication technology (ICT).
+> “Ah, se o mundo inteiro me pudesse ouvir, tenho muito pra contar, dizer que aprendi.” — Tim Maia
 
-## I’m currently working on 💻
+Hello! I'm **Erick Ghuron**, a Physics teacher and master's student in Physics Teaching at [PIEC-USP](https://portal.if.usp.br/piec/), with a special interest in the theoretical and methodological issues of science education research. Currently, I work with *Natural Language Processing*, using topic modeling techniques such as *Latent Dirichlet Allocation* to analyze themes in the scientific production of Physics Education in Brazil.
 
-🎓 I'm a master's student in physics education at [PIEC-USP](https://portal.if.usp.br/piec/).
+![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-6A0DAD?style=flat&logo=spacy&logoColor=white)
+![Gensim](https://img.shields.io/badge/Gensim-6A0DAD?style=flat&logoColor=white)
+![Django](https://img.shields.io/badge/Django-6A0DAD?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-6A0DAD?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-6A0DAD?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6A0DAD?style=flat&logo=postgresql&logoColor=white)
 
-📚 Studying Natural Language Processing applied to education.
+![Visitor Badge](https://komarev.com/ghpvc/?username=ghuron&style=flat&color=blue)
 
-## I'm familiar with 🤓
+</td>
+<td width="30%">
+  <p align="center">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNhdWNocjM0MmJ0NXEzZHZrMHlmNm54MzN0aWplaHl1ZjE4OWY0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EWlFG17ycfUQTdX5LA/giphy.gif" width="100%">
+    <br>
+    <em>The GOAT 🐐</em>
+  </p>
+</td>
+</tr>
+</table>
 
-I have experience in data science, machine learning, and deep learning, using tools like Python, NumPy, Pandas, Scikit-Learn, TensorFlow, PyTorch, and SymPy for symbolic computation. I also have knowledge of web development with HTML, CSS, and Flask, and have worked with databases like SQLite and PostgreSQL.
+## 📫 Let’s connect!
 
-## Where to find me 📬
-
-Send an e-mail to <a href="mailto:ghuron@usp.br" target="_blank">ghuron@usp.br</a>
-
-or find me on my socials
-
-<a href="https://twitter.com/ghurone" target="_blank">![Twitter](https://img.shields.io/badge/ghurone-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a href="https://instagram.com/ghurone" target="_blank">![Instagram](https://img.shields.io/badge/ghurone-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://steamcommunity.com/id/ghuron" target="_blank">![Steam](https://img.shields.io/badge/nekz-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)</a>
+✉️ <a href="mailto:ghuron@usp.br">ghuron@usp.br</a>
+🐦 [Twitter](https://twitter.com/ghurone)
+🎮 [Steam](https://steamcommunity.com/id/ghuron)
