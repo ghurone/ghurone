@@ -6,7 +6,7 @@
 
 > “Ah, se o mundo inteiro me pudesse ouvir, tenho muito pra contar, dizer que aprendi.” — Tim Maia
 
-Hello! I'm **Erick Ghuron**, a Physics teacher and master's student in Physics Teaching at [PIEC-USP](https://portal.if.usp.br/piec/), with a special interest in the theoretical and methodological issues of science education research. Currently, I work with *Natural Language Processing*, using topic modeling techniques such as *Latent Dirichlet Allocation* to analyze themes in the scientific production of Physics Education in Brazil.
+Hello! I’m **Erick Ghuron**, a Physics teacher and master’s student in Physics Teaching at [PIEC-USP](https://portal.if.usp.br/piec/), with a special interest in the theoretical and methodological issues in science education research. I’m currently working with Natural Language Processing, using topic modeling techniques such as Latent Dirichlet Allocation (LDA) to analyze themes in the Physics Education research output in Brazil.
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-6A0DAD?style=flat&logo=spacy&logoColor=white)
@@ -31,6 +31,6 @@ Hello! I'm **Erick Ghuron**, a Physics teacher and master's student in Physics T
 
 ## 📫 Let’s connect!
 
-✉️ <a href="mailto:ghuron@usp.br">ghuron@usp.br</a>
+✉️ <a href="mailto:eghuron@gmail.com">eghuron@gmail.com</a>
 🐦 [Twitter](https://twitter.com/ghurone)
 🎮 [Steam](https://steamcommunity.com/id/ghuron)
