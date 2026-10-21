@@ -8,6 +8,8 @@
 
 Hello! I’m **Erick Ghuron**, a Physics teacher and master’s student in Physics Teaching at [PIEC-USP](https://portal.if.usp.br/piec/), with a special interest in the theoretical and methodological issues in science education research. I’m currently working with Natural Language Processing, using topic modeling techniques such as Latent Dirichlet Allocation (LDA) to analyze themes in the Physics Education research output in Brazil.
 
+In my free time I'm porting **Sonic Mania** to the PSP: [Sonic-Mania-PSP](https://github.com/ghurone/Sonic-Mania-PSP) 🦔
+
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=flat&logo=python&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-6A0DAD?style=flat&logo=spacy&logoColor=white)
 ![Gensim](https://img.shields.io/badge/Gensim-6A0DAD?style=flat&logoColor=white)
